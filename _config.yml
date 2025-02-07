@@ -1,10 +1,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
-description: Bay is a minimal Jekyll Theme.
-baseurl: "/home"
+title: FJOnori
+description: FJOnori blog and portfolio
 url: "https://fjonori.github.io"
+baseurl: ""
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -13,7 +13,9 @@ header:
     - name: Home
       slug: /
     - name: Work
+      slug: /work
     - name: Blog
+      slug: /blog
 
 footer:
   show_powered_by: true
