@@ -2,9 +2,9 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 title: FJOnori
-description: Bay is a minimal Jekyll Theme.
-baseurl: ""
+description: FJOnori Portfolio and Blog.
 url: "https://fjonori.github.io"
+baseurl: ""
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
