@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: FJOnori
 description: Bay is a minimal Jekyll Theme.
 baseurl: "/home"
 url: "https://fjonori.github.io"
@@ -20,7 +20,7 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
+      value: Onorifinn@hotmail.com
     - type: wechat
       value: YourWeChatUsername
       link: "#"
