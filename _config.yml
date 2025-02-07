@@ -3,7 +3,7 @@
 
 title: FJOnori
 description: Bay is a minimal Jekyll Theme.
-baseurl: "/"
+baseurl: ""
 url: "https://fjonori.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
