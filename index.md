@@ -1,13 +1,21 @@
 ---
 title: 
-feature_text: 
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: <h1 style="color:white;font-family:'Merriweather';font-size:64px"> FJOnori </h1>
+feature_image: "assets/imgs/Background.jpg"
 excerpt: "homepage"
 ---
 
-Hello! My name is FJOnori, I'm a physics graduate/creative writer and this is my portfolio. Firstly, I'd like to say thank you for being here. Even if you don't like what you read I am extremely grateful that anyone has taken an interest in my work. Now it is my job to return the favour by (hopfully) keeping you engaging in each and every piece I write or, at the very least, giving you a place where you can learn from my mistakes.
+<br/>
 
-Here you'll find my creative outlet in the form of my blog, movie reviews, short scripts, whatever I fancy making. If you're not sure where to start consider my latest post below.
+**Hello!**
+
+My name is FJOnori, I'm a physics graduate/creative writer and this is my portfolio. Here you'll find my creative outlet in the form of my blog, movie reviews, short scripts, basically whatever I fancy. If you're not sure where to start consider my latest post below.
+
+Before that I'd first like to say thank you just for being here. I am extremely thankful that anyone has taken enough interest in my work to visit even if you don't like what you read. Now it is my job to return the favour bykeeping you engaged in each piece I write, or at the very least, allow you to learn from my mistakes. It's most likly going to be a bit of both. Thanks again and happy reading!
+
+<br/>
 
 <h5>Latest Post</h5>
 {% include post-list.html post_limit=1 %}
+
+<br/>

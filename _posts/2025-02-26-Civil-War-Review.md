@@ -4,8 +4,8 @@ categories:
 - Movie Reviews
 excerpt: |
     Civil War (2024) is a Beautoifully shot and engaging film that unfortunatly doesn't go deep enough.
-feature_image: "https://picsum.photos/2560/600?image=733"
-image: "https://picsum.photos/2560/600?image=733"
+# feature_image: "https://picsum.photos/2560/600?image=733"
+# image: "https://picsum.photos/2560/600?image=733"
 ---
 
 <br>
