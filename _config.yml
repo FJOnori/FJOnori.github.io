@@ -68,7 +68,7 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
-    feature_text: "<h1 style="color:white;font-family:'Helvetica'> Categories </h1>"
+    feature_text: <h1 style="color:white;font-family:'Merriweather'"> Blog </h1>
     feature_image: "../assets/imgs/Background.jpg"
 
 # 6. Jekyll collections settings
