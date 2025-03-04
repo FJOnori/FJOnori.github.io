@@ -7,4 +7,4 @@ excerpt: |
 
 ---
 
-<iframe src="/assets/pdfs/TheRemainsThatLie.pdf" width="100%" height="1100px"></iframe>
+<iframe src="/assets/pdfs/TheRemainsThatLie.pdf" width="100%" height="1000px"></iframe>
