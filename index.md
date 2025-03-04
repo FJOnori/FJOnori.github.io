@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: <h1 style="color:white;font-family:'Merriweather';font-size:64px"> FJOnori </h1>
-feature_image: "assets/imgs/Background.jpg"
+feature_image: "/assets/imgs/Background.jpg"
 excerpt: "homepage"
 ---
 
