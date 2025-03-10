@@ -5,7 +5,6 @@ categories:
 excerpt: |
   Now, Donald Trump is heading back to the white house and has suggested withdrawing from the Paris accord (again) and repealing the IRA. If his cabinet picks indicate anything, it’s that his first term is going to look like child’s play in comparison to what’s coming. Americans are fighting when they’re running out of time, like two frogs brought to slow boil while wrestling over mating rights. Why are so many smart elected officials ignoring the advice of experts? Is there a strong enough reason for not decarbonizing?
 
-bibliography: EnviromentalCapitalist
 ---
 
 {% include figure.html image="/assets/imgs/EnviromentalCapitalist/Drill.png" caption="Image with caption" %}
@@ -46,7 +45,3 @@ A hedge will grow healthily if left alone, but if left for too long without bein
 ![Future New York](/assets/imgs/EnviromentalCapitalist/NewYorkBelowSeaLevel.png)
 
 Climate science is often disregarded and mocked by Donald Trump, the EPA was even forced to remove the climate change page on their website. Donald Trump claims to love America, but then he does things that are truly unamerican. Both Nazi Germany and the Soviet Union also silenced scientists, they suppressed evidence that went against their beliefs while weaponizing evidence that confirmed their beliefs. Darwinism was accepted by the Nazi’s because it provided evidence for their racial superiority. Are we better than this? You can’t believe in democracy only when you agree with the majority, you can’t believe in free-speech only when people who agree with you speak, and you can’t believe in capitalism only when you alone stand to benefit. This is proof enough that Donald Trump is lying when he claims to love America, he only loves himself. To those who deny, silence, and mock climate science whilst blocking legislation from passing: I hope it was worth it. I hope that the extra lining in your pockets was worth selling out future generations. This story looks like it’s not going to happy ending as the rich will continue use their power to get richer by bribing politicians to drag their feet. This causes people to give up hope when discussing the climate as individuals often feel powerless, but you are not powerless. Losing hope is exactly what the fossil fuel industry needs to keep polluting, but we’ve not lost yet. The last decade has shown clear progress on the climate crisis as a projected warming of +4 degrees has been reduced to 2-3 degrees, we need to apply even more pressure to bring it down further to protect future generations, to protect the people alive today who are struggling to get by, and to protect everyone's livelihood. We can create that happy ending if we keep up the fight, and hopefully if we are loud enough, Donald Trump will listen once he's finished and cutting his own taxes, pardoning himself, and separating children from their families.\cite{SeperatingFamilies}
-
-### References
-{% bibliography %}
-
