@@ -34,6 +34,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
+- jekyll-scholar
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -162,5 +163,12 @@ fonts:
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
 
+
+scholar:
+  bibliography: "EnviromentalCapitalist.bib" # Default bibliography (not used for per-post)
+  bibliography_list_tag: "ul"
+  style: "apa" # Change to your preferred CSL style
+  locale: "en"
+  source: "_bibliographies"
 
 remote_theme: daviddarnes/alembic@main
