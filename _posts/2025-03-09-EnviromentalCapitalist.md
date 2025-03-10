@@ -8,7 +8,8 @@ excerpt: |
 bibliography: EnviromentalCapitalist
 ---
 
-![Drill Baby Drill](/assets/imgs/EnviromentalCapitalist/Drill.png)
+{% include figure.html image="/assets/imgs/EnviromentalCapitalist/Drill.png" caption="Image with caption" %}
+
 
 Coal, oil, and gas (also known as fossil fuels) are burned to generate energy around the world to keep our civilization going. They have greatly decreased poverty, promoted economic growth, and fueled scientific advancement. However as a side effect they produce air pollution, mostly a gas called carbon dioxide. This gas is dumped into the air where it poisons human lungs before rising up into the atmosphere. Once freed from the ground, carbon dioxide absorbs far more heat than regular air and so it causes the planet to warm up, like greenhouse around the Earth. If there's too little greenhouse gas the Earth becomes an ice ball, if there are too much greenhouse gas the Earth heats up. This warming leads to a number of unhappy side effects: The polar ice melts and causes sea levels to rise possibly flooding coastal cities, hurricanes become stronger like a steam engine being given more fuel, wildfires burn hotter, droughts become deadlier. Already the planet's temperature has risen by more than one degree which has already increased the number and severity of natural disasters. If the temperature rises by more than two degrees vast swathes of the planet my become uninhabitable. A rise of four degrees would end civilization. To prevent ether of these outcomes we need to reduce emissions to net-zero as quickly as possible, therefore, it doesn’t seem too sound to "Drill baby drill".
 
