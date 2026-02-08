@@ -22,7 +22,6 @@ resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://FJOnori.github.io
-# your url: https://USERNAME.github.io
 
 permalink: /:title/
 
