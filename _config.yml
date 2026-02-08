@@ -1,6 +1,11 @@
 # main text of home
+<<<<<<< HEAD
 title: Finn John Onori
 bio: Lover of Physics, Computers, and Film.
+=======
+title: John Doe
+bio: A Person who travels the world eating noodles
+>>>>>>> parent of 987ce8a (Update _config.yml)
 
 # twitter summary info
 description: A blog on screenwriting, physics, whatever.
